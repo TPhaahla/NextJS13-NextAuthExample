@@ -1,4 +1,6 @@
 # NextJS13-NextAuthExample
+### Please Read
+This project is not complete but I will be making changes as and when I can. For now I have included the System Sequence Diagram for the application.
 
 ### Project Description:
 
@@ -16,6 +18,9 @@ The User Authentication and Profile Management App is a demonstration of a versa
 - Backend: Python FastApi
 - Database: MongoDB
 - Authentication: JSON Web Tokens (JWT) for secure token-based authentication
+
+#### System Sequence Diagram
+![UserAuthSystemSequence](https://github.com/TPhaahla/NextJS13-NextAuthExample/assets/72293519/99cca4d2-b5c9-4b61-b508-cb516afc55fd)
 
 #### Disclaimer:
 
