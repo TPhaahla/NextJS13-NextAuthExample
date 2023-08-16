@@ -5,7 +5,6 @@
 The User Authentication and Profile Management App is a demonstration of a versatile user registration and authentication system that offers a seamless experience for both new and returning users. This project showcases the implementation of secure user authentication, account creation, and profile management functionalities. With support for traditional email/password registration, social media account integration, and password recovery, the app ensures a smooth and secure user journey.
 
 #### Features:
-a
 - User registration with email and password
 - User login using credentials
 - Social media account integration for quick access
